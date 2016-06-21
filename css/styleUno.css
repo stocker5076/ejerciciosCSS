@@ -1,0 +1,10 @@
+body{
+	width: 960px;
+	margin: auto;
+	margin-top: 80px;
+}
+
+p.ultimo{
+	display: block;
+	float: right;
+}

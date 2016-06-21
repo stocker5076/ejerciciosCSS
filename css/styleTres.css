@@ -1,0 +1,18 @@
+body{
+	width: 80%;
+	margin: auto;
+	margin-top: 80px;
+}
+
+
+nav{
+	position: fixed;
+	background-color: blue;
+}
+.columna{
+	display: block;
+	float: left;
+	width: 25%;
+	box-sizing: border-box;
+	padding: 2%;
+}
